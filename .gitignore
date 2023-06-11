@@ -52,3 +52,7 @@ quartus/2.20/simulation/qsim/work/_info
 *.hb_info
 *.sig
 ~$am_digital_electronics.docx
+quartus/2.20/simulation/qsim/work/_temp/vlogb63sh7
+quartus/2.20/simulation/qsim/work/_temp/vlogr4eqx5
+quartus/2.20/simulation/qsim/work/_temp/vlogs0x276
+*.temp
