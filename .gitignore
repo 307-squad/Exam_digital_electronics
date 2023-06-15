@@ -56,3 +56,7 @@ quartus/2.20/simulation/qsim/work/_temp/vlogb63sh7
 quartus/2.20/simulation/qsim/work/_temp/vlogr4eqx5
 quartus/2.20/simulation/qsim/work/_temp/vlogs0x276
 *.temp
+quartus/2.8/incremental_db/README
+quartus/2.8/simulation/qsim/transcript
+quartus/2.8/simulation/qsim/work/_info
+quartus/2.8/simulation/qsim/work/_vmake
