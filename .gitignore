@@ -64,3 +64,4 @@ quartus/2.26.4/simulation/qsim/transcript
 quartus/2.26.4/simulation/qsim/work/_info
 quartus/2.26.4/incremental_db/README
 quartus/2.26.4/simulation/qsim/work/_vmake
+*.tmp
